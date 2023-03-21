@@ -17,7 +17,7 @@ class App extends Component {
                         target="_blank"
                         rel="noopener noreferrer"
                     >
-                        Learn React
+                        Dab Of Wanderlust
                     </a>
                 </header>
             </div>
